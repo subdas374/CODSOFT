@@ -15,7 +15,7 @@
 
 <h2 id="project-descriptions">Project Descriptions</h2>
 
-<h3>1.<a href="https://github.com/subdas374/CODSOFT/tree/main/Titanic_Survival_Prediction"> Titanic Survival Prediction</a></h3>
+<h3>1.<a href="https://github.com/subdas374/CODSOFT/tree/main/Titanic_Survival_Prediction"> Titanic Survival Prediction :cruise_ship:</a></h3>
 <p>In this project, I developed a predictive model using machine learning algorithms to predict the survival of passengers aboard the Titanic. The dataset includes various features such as age, gender, fare, etc. I explored the data, performed data preprocessing, and trained a model to predict survival.</p>
 
 <h3>2.<a href="https://github.com/subdas374/CODSOFT/tree/main/Movie%20Rating%20Prediction"> Movie Rating Prediction with Python</a></h3>
